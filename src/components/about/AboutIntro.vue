@@ -53,7 +53,7 @@
         <div class="profile-container">
           <div class="profile-frame">
             <div class="profile-image-wrapper">
-              <q-img src="public/images/rafi1.jpg" alt="Raiful Islam" class="profile-image" />
+              <q-img src="/images/rafi1.jpg" alt="Raiful Islam" class="profile-image" />
             </div>
 
             <!-- Floating badges around image -->
